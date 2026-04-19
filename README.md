@@ -6,6 +6,8 @@ A real-time Search & Rescue (SAR) detection system for drone footage, built with
 
 ## 🎬 Demo
 
+https://github.com/JazibAslam124/drone-sar-system/blob/main/assets/demo.mp4
+
 ![Drone SAR Detection Demo](assets/demo.png)
 
 ---
