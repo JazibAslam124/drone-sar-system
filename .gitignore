@@ -1,0 +1,21 @@
+@"
+# Model weights
+Yolo-Weights/
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+.venv/
+venv/
+
+# Logs
+alerts_log.csv
+
+# Temp files
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8
